@@ -4,7 +4,7 @@
 
 <!-- At present, I've been working in a microservices-based platform -->
 
-<br><img src="./img/wordcloud.png" alt="Technologies that Jean has hands-on experience">
+<br><img src="https://raw.githubusercontent.com/jccmelo/jccmelo/master/img/wordcloud.png" alt="Technologies that Jean has hands-on experience">
 
 ## Find me around 🌎
 

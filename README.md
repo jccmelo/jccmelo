@@ -1,10 +1,10 @@
-# Hi there 👋
+# Hi there 👋🏻🧑🏻‍💻
 
 #### My name is Jean Melo. I'm a software engineer and PhD in computer science interested in making software that is highly-configurable, reusable, robust, and easy to maintain.
 
-During my MSc and PhD, I have developed research and tools to find bugs and to improve debugging and maintainability of highly-configurable software systems (aka, software product lines). Specifically, in my PhD at the <a href="https://en.itu.dk/" target="blank">IT University of Copenhagen</a>, I set off to understand the impact of software variability through different perspectives using empirical studies to then propose two techniques to successfully detect bugs in configurable software and to help developers safely reason about features and their code dependencies. (For more details, refer to my <a href="https://jccmelo.com/public/resources/phd-thesis_jean-melo.pdf" target="blank">PhD Dissertation</a>)
-
 <!-- At present, I've been working in a microservices-based platform -->
+
+<br><img src="./img/wordcloud.png" alt="Technologies that Jean has hands-on experience">
 
 ## Find me around 🌎
 

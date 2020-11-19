@@ -1,6 +1,6 @@
 # Hi there 👋🏻🧑🏻‍💻
 
-### My name is Jean Melo. I'm a software engineer and PhD in computer science interested in making software that is highly-configurable, reusable, robust, and easy to maintain.
+### My name is Jean Melo. I'm a software engineer interested in making software that is highly-configurable, reusable, robust, and easy to maintain.
 
 <!-- At present, I've been working in a microservices-based platform -->
 
